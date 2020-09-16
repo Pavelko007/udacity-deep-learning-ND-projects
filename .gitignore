@@ -2,3 +2,4 @@
 project-dog-classification/dogImages
 project-dog-classification/lfw
 project-face-generation/processed-celeba-small
+*.pt
