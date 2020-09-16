@@ -3,3 +3,4 @@ project-dog-classification/dogImages
 project-dog-classification/lfw
 project-face-generation/processed-celeba-small
 *.pt
+project-tv-script-generation/preprocess.p
