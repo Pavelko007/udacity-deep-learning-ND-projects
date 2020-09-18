@@ -6,7 +6,7 @@
 * [Dog Breed Classifier](https://github.com/Pavelko007/udacity-deep-learning-ND-projects/tree/master/project-dog-classification): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 * [TV Script Generation](https://github.com/Pavelko007/udacity-deep-learning-ND-projects/tree/master/project-tv-script-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
 * [Face Generation](https://github.com/Pavelko007/udacity-deep-learning-ND-projects/tree/master/project-face-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
-* [Sagemaker](https://github.com/Pavelko007/udacity-deep-learning-ND-projects/tree/master/project-sagemaker): Build and deploy a neural network that predicts the sentiment of a user-provided movie review and use your deployed model through a simple web app.
+* [Sagemaker](https://github.com/Pavelko007/udacity-deep-learning-ND-projects/tree/master/project-sagemaker): Build and deploy a neural network that predicts the sentiment of a user-provided movie review and uses your deployed model through a simple web app.
 
 ---
 
