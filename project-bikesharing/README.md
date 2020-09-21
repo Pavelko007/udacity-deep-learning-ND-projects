@@ -7,5 +7,5 @@ Build and train neural networks from scratch to predict the number of bikeshare 
 
 ## Project files:
 
-+ **Predicting_bike_sharing_data.ipynb**  This jupyter notebook describes all the stages of project. It also contains my answer to the question at the end.
-+ **my_answers.py** Contains my implementation of the network and the hyperparameters that I chose for training
++ **Predicting_bike_sharing_data.ipynb**  this jupyter notebook describes all stages of the project. It also contains my answer to the question at the end.
++ **my_answers.py** contains my implementation of the network and the hyperparameters that I chose for training
