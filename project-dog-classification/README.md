@@ -1,8 +1,6 @@
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 # Dog Breed Classifier
 
@@ -16,3 +14,6 @@ Design and train a convolutional neural network to analyze images of dogs and co
 project-dog-classification/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
 2. Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/
 project-dog-classification/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
+
+## Project files:
++ **dog_app.ipynb** jupyter notebook contains all my implementations and answers to the questions.
