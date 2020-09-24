@@ -16,4 +16,4 @@ project-dog-classification/dogImages`.  The `dogImages/` folder should contain 1
 project-dog-classification/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
 ## Project files:
-+ **dog_app.ipynb** jupyter notebook contains all my implementations and answers to the questions.
++ `dog_app.ipynb` jupyter notebook contains all my implementations and answers to the questions.
